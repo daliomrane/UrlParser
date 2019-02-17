@@ -1,0 +1,7 @@
+D:\projects\UrlParser\UrlParser\UrlParser\obj\Debug\UrlParser.csprojAssemblyReference.cache
+D:\projects\UrlParser\UrlParser\UrlParser\obj\Debug\UrlParser.csproj.CoreCompileInputs.cache
+D:\projects\UrlParser\UrlParser\UrlParser\bin\Debug\UrlParser.exe.config
+D:\projects\UrlParser\UrlParser\UrlParser\bin\Debug\UrlParser.exe
+D:\projects\UrlParser\UrlParser\UrlParser\bin\Debug\UrlParser.pdb
+D:\projects\UrlParser\UrlParser\UrlParser\obj\Debug\UrlParser.exe
+D:\projects\UrlParser\UrlParser\UrlParser\obj\Debug\UrlParser.pdb
